@@ -11,7 +11,7 @@ def DATMultK(k,data):
             DAT[n] = True
 
     else:
-        print("No Pair Found")
+        print("No Pair Found.")
 
 st = time.process_time()
 DATMultK(k,data)

@@ -24,3 +24,6 @@
 /week10/MST/input/
 *.out
 /week12/knapsack-input/
+.idea/
+__pycache__/
+*.pyc

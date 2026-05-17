@@ -16,7 +16,7 @@ def DictMultK(k,data):
             break
 
     else:
-        print("No Pair Found")
+        print("No Pair Found.")
 
 
 st = time.process_time()
